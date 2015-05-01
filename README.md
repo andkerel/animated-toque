@@ -1,6 +1,8 @@
 # animated-toque
 ####A super Canadian wearable to show sound visualizations while keeping your head warm!
 
+Created in collaboration with [Justina Choi](http://justinachoi.com/) and [Adalyn Ordono](http://adalynordono.com/).
+
 ![image](https://cloud.githubusercontent.com/assets/9125578/7426384/b90b9e44-ef91-11e4-8f69-81063da3716e.png)
 
 This wearable prototype has three options for the interactive sound visualization shown on the hat.
